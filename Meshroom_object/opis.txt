@@ -1,0 +1,1 @@
+W tym folderze znajdują się wszystkie zdjęcia, jakich użyłam do wygenerowania obiektu, oraz zrzut ekranu jak wygląda ten obiekt w programie Meshroom. Próbowałam wielokrotnie z różnymi przedmiotami ale nigdy nie wyszedł mi prawidłowy obiekt, zawsze tylko kropki (to pewnie wierzchołki?).
